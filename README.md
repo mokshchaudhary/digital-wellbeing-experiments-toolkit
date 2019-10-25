@@ -1,3 +1,9 @@
+# Added Dark Mode.
+This app has a simple modificaion which makes the background black instead of gray to same battery (and look better) on amoled and oled screens.
+
+![Modded Apk](https://i.imgur.com/5JH7czj.jpg) 
+
+
 # Digital Wellbeing Experiments toolkit
 
 ![Digital Wellbeing Hero Image](img/Toolkit_Hero.jpg)
